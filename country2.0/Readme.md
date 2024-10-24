@@ -1,8 +1,7 @@
+MODULARIZED CODE OF THE PROBLEM STATEMENT
+
 please create an account on this link or any other platform to access data:
-
 https://api-ninjas.com/api/country
-
-
 The above web page contains an api whose reponse is country data,
 try to analyse what params it requires and do an api hit to receive the response
 
